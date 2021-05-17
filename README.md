@@ -61,5 +61,5 @@ Recommend using Postman to create some test cases. For heavier unit testing pip 
 
 ## Authors
 
-Fatjon Ujkani
+Jon Ujkani
 
